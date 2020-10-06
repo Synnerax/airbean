@@ -149,6 +149,8 @@ export default {
 .order-history-header {
     width: 80%;
     text-align: left;
+    margin-top: 3rem;
+
 }
 .user-mail {
     
