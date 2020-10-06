@@ -1,0 +1,804 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Bryggkaffe",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "title": "Caffè Doppio",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "title": "Latte Macchiato",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 5,
+      "title": "Kaffe Latte",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 54
+    },
+    {
+      "id": 6,
+      "title": "Cortado",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    }
+  ],
+  "orders": [
+    {
+      "purchase": "LLKURWV",
+      "totalCost": 137,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "purchase": "GVOFT0D",
+      "totalCost": 39,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "QXLJV6L",
+      "totalCost": 49,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "B41GSX1",
+      "totalCost": 49,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "LWFCIWK",
+      "totalCost": 39,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "HIJRRM9",
+      "totalCost": 49,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "WBTK7RL",
+      "totalCost": 49,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "UOMJ762",
+      "totalCost": 98,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "DTQYVAE",
+      "totalCost": 196,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 4,
+          "title": "Latte Macchiato",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        },
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "N2FYH0W",
+      "totalCost": 98,
+      "orderDate": "5/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "purchase": "LAPW973",
+      "totalCost": 156,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "purchase": "WPSHORD",
+      "totalCost": 196,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "purchase": "X0HU31N",
+      "totalCost": 117,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "N35IARF",
+      "totalCost": 98,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "purchase": "DNEYYJ9",
+      "totalCost": 39,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "K0JODM2",
+      "totalCost": 147,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "MP2M0W0",
+      "totalCost": 147,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "DNUDYFR",
+      "totalCost": 117,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "NP4U4OO",
+      "totalCost": 117,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "LV7BU7G",
+      "totalCost": 245,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        },
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "purchase": "WPPY2JY",
+      "totalCost": 294,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        },
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "V5HWJ7U",
+      "totalCost": 98,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "purchase": "LS2V6JM",
+      "totalCost": 147,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 4,
+          "title": "Latte Macchiato",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "K7EUCS6",
+      "totalCost": 39,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "FDLKCUT",
+      "totalCost": 147,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "BKEBW4D",
+      "totalCost": 245,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 2,
+          "title": "Caffè Doppio",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 4
+        },
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "purchase": "QIDV570",
+      "totalCost": 117,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "VPR6HAX",
+      "totalCost": 117,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39,
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "purchase": "JP38PRO",
+      "totalCost": 98,
+      "orderDate": "6/10/2020",
+      "cartItems": [
+        {
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49,
+          "quantity": 2
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "name": "elliot",
+      "mail": "berggren@12312.com",
+      "history": [
+        {
+          "purchase": "U2CEKTN",
+          "totalCost": 195,
+          "orderDate": "2/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "purchase": "RAOIWTQ",
+          "totalCost": 196,
+          "orderDate": "2/10/2020",
+          "cartItems": [
+            {
+              "id": 4,
+              "title": "Latte Macchiato",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "purchase": "KKW6OLA",
+          "totalCost": 117,
+          "orderDate": "2/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "purchase": "IGDBHMI",
+          "totalCost": 156,
+          "orderDate": "2/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 4
+            }
+          ]
+        },
+        {
+          "purchase": "GGLMKCV",
+          "totalCost": 78,
+          "orderDate": "4/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "testing",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "LS2V6JM",
+          "totalCost": 147,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 4,
+              "title": "Latte Macchiato",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sixten Kaffelövér",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "K7EUCS6",
+          "totalCost": 39,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sitewtewrelövér",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "SixteasdaczxcxvxcvscvKaffelövér",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "Sixtdaasdsaffelövér",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testing1",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testing321",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testing11",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testing111",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testing332323",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "testtt",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "FDLKCUT",
+          "totalCost": 147,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 2,
+              "title": "Caffè Doppio",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "czxczxcasd",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "hejhej123",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "BKEBW4D",
+          "totalCost": 245,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 2,
+              "title": "Caffè Doppio",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 4
+            },
+            {
+              "id": 3,
+              "title": "Cappuccino",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "purchase": "OP0AD5B",
+          "totalCost": 196,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 3,
+              "title": "Cappuccino",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fsdfsdf",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "QIDV570",
+          "totalCost": 117,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cxcasd",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "VPR6HAX",
+          "totalCost": 117,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 1,
+              "title": "Bryggkaffe",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 39,
+              "quantity": 3
+            }
+          ]
+        },
+        {
+          "purchase": "AOV62CN",
+          "totalCost": 98,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 2,
+              "title": "Caffè Doppio",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "123124214",
+      "mail": "sixten.kaffelover@zocom.se"
+    },
+    {
+      "name": "jsaldnsald",
+      "mail": "sixten.kaffelover@zocom.se",
+      "history": [
+        {
+          "purchase": "JP38PRO",
+          "totalCost": 98,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 3,
+              "title": "Cappuccino",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 2
+            }
+          ]
+        },
+        {
+          "purchase": "OIQXWLA",
+          "totalCost": 98,
+          "orderDate": "6/10/2020",
+          "cartItems": [
+            {
+              "id": 2,
+              "title": "Caffè Doppio",
+              "desc": "Bryggd på månadens bönor.",
+              "price": 49,
+              "quantity": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
