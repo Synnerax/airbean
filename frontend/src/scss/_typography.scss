@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;600&display=swap');
+
+
+.landing-page {
+
+    color: #FFFFFF;
+    h1 {
+        font-family: Rufina;
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    p {
+        font-size: 9px;
+        line-height: 11px;
+        font-family: 'Work Sans';
+        letter-spacing: 0.3em;
+    }
+}
+
+
+
+#about, #products, .link{
+    font-family: 'PT Serif';
+    
+}
+
+
+.create-user {
+
+    //font-weight: bold;
+
+    h2 {
+        font-family: 'PT Serif';
+        font-size: 32px;
+        line-height: 120%;
+        color: $airBeanBrown;
+    }
+
+    p {
+        font-family: 'Work Sans';
+        font-size: 16px;
+        line-height: 150%;  
+        width: 32ch;
+        color: $airBeanBrown;
+    }
+
+    label {
+        font-family: 'Work Sans';
+        font-size: 12px;
+        line-height: 120%;
+        color: $airBeanBrown
+    }
+
+    .push-user {
+        font-family: 'PT Serif';
+        font-size: 24px;
+        line-height: 120%;
+        font-weight: bold;
+        color: #FFFFFF;
+    }
+}
+/*
+body {
+
+    font-family: 'Baloo Tammudu 2', cursive;
+    h1 {
+        grid-column: auto / span 3;
+        font-size: 3rem;
+
+    }
+
+    h2 {
+        font-size: 2rem;
+        margin: .5rem 0;
+    }
+
+    .product {
+        h2{
+            margin: 0 1rem
+        }
+
+        h3{
+            margin: 0 1rem;
+            font-size: 1.6rem;
+            font-weight: 400;
+        }
+    }
+}
+*/

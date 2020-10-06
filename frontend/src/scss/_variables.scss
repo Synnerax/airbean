@@ -1,0 +1,26 @@
+$boxShadow: 0 0 3rem rgba(0, 0, 0, .1);
+
+// Main colors
+
+$airBeanBrown: #2F2926;
+$airBeanDarkGreen: #0E927D;
+$airBeanLightGreen: #58BF94;
+$airBeanPink: #F3E4E1;
+$airBeanOrange: #E5674E;
+
+// leaf colors:
+
+$bigLightLeaf: rgba(151, 201, 206, 1);
+$bigLightLeafBg: rgba(186, 227, 221, 1);
+
+$bigGreenLeaf: rgba(40, 111, 127, 1);  
+$bigGreenLeafBg: rgba(47, 140, 145, 1);
+
+$bigDarkLeaf: rgba(47, 140, 145, 1);
+$bigDarkLeafBg: rgba(26, 65, 67, 1);
+@mixin reset-mp {
+    margin: 0;
+    padding: 0;
+}
+
+
