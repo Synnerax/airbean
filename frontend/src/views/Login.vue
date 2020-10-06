@@ -22,12 +22,12 @@ export default {
         }
     },
     methods: {
-        signIn() {
+       async signIn() {
             let userInfo = JSON.stringify({name: this.userName, mail: this.userMail})
             sessionStorage.setItem('user', userInfo)
-            
+            await this.$store.dispatch('getUser')
             console.log(userInfo)
-            this.$router.push('/profile')
+            await this.$router.push('/profile')
         }
     }
 }

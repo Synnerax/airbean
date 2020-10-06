@@ -30,6 +30,7 @@ export default {
             //console.log(this.$vnode.key)
             this.quantity++;
             this.$store.commit('addToCart', this.coffee)
+            console.log('this is running--------------------')
         },
         decQuantity() {
             this.quantity--
